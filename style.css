@@ -33,6 +33,7 @@ body {
   font-size: 24px;
   line-height: 28px;
   margin-right: 30px;
+  cursor: pointer;
 }
 .nav__item:last-child {
   margin-right: 0;
@@ -60,4 +61,7 @@ body {
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
+}
+.hero__subtitle--red {
+  color: red;
 }
